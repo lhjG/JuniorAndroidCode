@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/easybuy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="一键下单"
+        android:textSize="25sp"
+        android:textColor="#D5000000"
+        android:gravity="left"
+        android:background="#ffffff" />
+
+    <TextView
+        android:id="@+id/share"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="分享商品"
+        android:textSize="25sp"
+        android:textColor="#D5000000"
+        android:gravity="left"
+        android:background="#ffffff" />
+
+    <TextView
+        android:id="@+id/unintrest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="不感兴趣"
+        android:textSize="25sp"
+        android:textColor="#D5000000"
+        android:gravity="left"
+        android:background="#ffffff" />
+
+    <TextView
+        android:id="@+id/moresaleinfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="查看更多商品促销信息"
+        android:textSize="25sp"
+        android:textColor="#D5000000"
+        android:gravity="left"
+        android:background="#ffffff" />
+
+</LinearLayout>
